@@ -3,7 +3,7 @@ import tkinter as tk
 # Create main window
 root = tk.Tk()
 root.title("e-Registry Mobile")
-root.geometry("360x640")   # Mobile-like size
+root.geometry("360x640")   # Mobile-like siz
 root.configure(bg="#F8F4EE")
 root.resizable(False, False)
 
